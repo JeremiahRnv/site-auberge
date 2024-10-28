@@ -1,0 +1,64 @@
+
+html{
+
+    font-family: "stevie-sans",Calibri, sans-serif;
+}
+
+h1,h2{
+    color: white;
+    display: block;
+    border-radius: 1.5em;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5 rem;
+    text-align: center;
+    background: linear-gradient(to bottom right, #5CC2FA, #9F00FA);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    width: 50%;
+    margin : 0 auto;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+
+}
+
+
+
+h1{
+
+padding: 1.25em;
+}
+
+h2{
+
+padding:0.5em;
+
+}
+
+.menu{
+
+   display: flex;
+   list-style: none;
+   justify-content: space-between; 
+   border: 5px solid black;  
+   
+}
+
+
+
+
+body{
+
+    background: white;
+}
+
+
+
+.fond-route{
+
+    color: #9F00FA;
+
+}
+
+#firstp{
+    color: #5005FA;
+}
